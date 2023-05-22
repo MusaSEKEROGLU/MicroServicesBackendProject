@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJ43riK1NlDGKexLLdpEJ9eLH1IvBkDTbQpVRyq6z3+hLMEH4F7jar0LPnvgtcnCYQfvm3uspT04zkmeMGtj7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drnma\\Desktop\\Microservices-BeveragesAndFoods\\Services\\ProductOrders\\Microservices.ProductOrders.Domain\\Microservices.ProductOrders.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drnma\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\drnma\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\drnma\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\drnma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

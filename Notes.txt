@@ -1,0 +1,69 @@
+Servisler ve Kullanýlanlar
+
+1-Microservices.Beverages.Api => 
+.Net5.0 + EFCore(ORM) + 
+MongoDb(Database NoSql) + 
+AutoMapper(Kütüphane) +
+MongoDB.Driver(Kütüphane)
+
+
+2-Microservices.IdentityServer.Api => 
+.Net3.1 + EFCore(ORM) + 
+IdentityServerFamework (Hazýr Templates Githup)(Token daðýtmaktan görevli) + 
+IdentityApi (Hazýr Templates Githup)(Üyelik sistemi için) + 
+SQL Server(Database) + 
+Kurulum Templates
+https://github.com/IdentityServer IdentityServer4.Templates-dotnet new is4aspid
+PowerShell-dotnet new -i identityserver4.templates + dotnet new is4aspid --name Microservices.IdentityServer.Api 
+Portainer + Docker Desktop + DBeaver
+Token Alma Yollarý OAuth 2.0
+- Resource Owner Credentials Grant Type
+- Client Credentials Grant Type
+
+
+3-Microservices.SharedLibrary(ClassLibrary) => 
+.Net3.1 + 
+EFCore(ORM) +
+Microsoft.AspNetCore.App(Framework)
+
+
+4-Microservices.Photos.Api => 
+EFCore(ORM)+
+Database Yoktur
+
+
+5-Microservices.Basket.Api => 
+Redis(Database = InMemory-RAM)+
+StackExchange.Redis(Kütüphane)+
+EFCore(ORM)
+
+
+5-Microservices.Discount.Api => 
+PostgreSQL(Database NoSql)+
+Dapper(ORM)
+
+
+6-Microservices.ProductOrders.Api => 
+DomainDrivenDesign(Pattern)+ *-Microservices.ProductOrders.Domain(ClassLibrary)
+SQL Server(Database)+ *-Microservices.ProductOrders.Infrastructure(ClassLibrary)
+EFCore(ORM)+(Tüm Katmanlarda kullanýlan)
+CQRS Pattern+
+MediatR(Kütüphane) *-Microservices.ProductOrders.Domain(ClassLibrary)
+AutoMapper(Kütüphane)+ *-Microservices.ProductOrders.Application(ClassLibrary)
+EFCore Sql Server 5.04(Kütüphane)+ *-Microservices.ProductOrders.Application(ClassLibrary)
+EFCore Design 5.04(Kütüphane)+ *-Microservices.ProductOrders.Application(ClassLibrary)
+EFCore Tools 5.04(Kütüphane)+ *-Microservices.ProductOrders.Application(ClassLibrary)
+ProductOrders Ýçerisindeki Diðer Katmanlarýmýz
+*-Microservices.ProductOrders.Infrastructure(ClassLibrary)
+*-Microservices.ProductOrders.Application(ClassLibrary)
+*-Microservices.ProductOrders.Domain(ClassLibrary)
+*-Microservices.ProductOrders.Domain.Core(ClassLibrary)
+
+
+7-Microservices.PaymentTransactions.Api => 
+
+
+
+7-Microservices.ApiGatevay => 
+ApiGateway+
+Ocelot(Kütüphane)

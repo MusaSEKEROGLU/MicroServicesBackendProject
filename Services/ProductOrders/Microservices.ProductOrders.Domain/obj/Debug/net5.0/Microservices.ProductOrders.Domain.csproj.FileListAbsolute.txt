@@ -1,0 +1,15 @@
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\bin\Debug\net5.0\Microservices.ProductOrders.Domain.deps.json
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\bin\Debug\net5.0\Microservices.ProductOrders.Domain.dll
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\bin\Debug\net5.0\Microservices.ProductOrders.Domain.pdb
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\bin\Debug\net5.0\Microservices.ProductOrders.Domain.Core.dll
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\bin\Debug\net5.0\Microservices.ProductOrders.Domain.Core.pdb
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\Microservices.ProductOrders.Domain.csproj.AssemblyReference.cache
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\Microservices.ProductOrders.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\Microservices.ProductOrders.Domain.AssemblyInfoInputs.cache
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\Microservices.ProductOrders.Domain.AssemblyInfo.cs
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\Microservices.ProductOrders.Domain.csproj.CoreCompileInputs.cache
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\Microservices.ProductOrders.Domain.csproj.CopyComplete
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\Microservices.ProductOrders.Domain.dll
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\refint\Microservices.ProductOrders.Domain.dll
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\Microservices.ProductOrders.Domain.pdb
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Services\ProductOrders\Microservices.ProductOrders.Domain\obj\Debug\net5.0\ref\Microservices.ProductOrders.Domain.dll

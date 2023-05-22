@@ -1,0 +1,10 @@
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\bin\Debug\netcoreapp3.1\Microservices.SharedLibrary.deps.json
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\bin\Debug\netcoreapp3.1\Microservices.SharedLibrary.dll
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\bin\Debug\netcoreapp3.1\Microservices.SharedLibrary.pdb
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\obj\Debug\netcoreapp3.1\Microservices.SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\obj\Debug\netcoreapp3.1\Microservices.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\obj\Debug\netcoreapp3.1\Microservices.SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\obj\Debug\netcoreapp3.1\Microservices.SharedLibrary.AssemblyInfo.cs
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\obj\Debug\netcoreapp3.1\Microservices.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\obj\Debug\netcoreapp3.1\Microservices.SharedLibrary.dll
+C:\Users\drnma\Desktop\Microservices-BeveragesAndFoods\Microservices.SharedLibrary\obj\Debug\netcoreapp3.1\Microservices.SharedLibrary.pdb

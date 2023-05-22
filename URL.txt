@@ -1,0 +1,22 @@
+
+
+IdentityServer
+Microservices.IdentityServer.Api => http://localhost:5001
+
+
+ApiGateway
+Microservices.ApiGateway => http://localhost:5000
+
+
+Services URLs
+Microservices.Beverages.Api => http://localhost:5011
+
+Microservices.Photos.Api => http://localhost:5012
+
+Microservices.Basket.Api => http://localhost:5013
+
+Microservices.ShoppingDiscounts.Api => http://localhost:5014
+
+Microservices.ProductOrders.Api => http://localhost:5015
+
+Microservices.PaymentTransactions.Api => http://localhost:5016
